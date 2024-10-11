@@ -3,6 +3,8 @@
 // Programming Languages - Assignment
 // 17/09/24
 
+//This program is meant to crash***
+
 
 fn display_value(item: Vec<u32>) { //declare display_value variable -> takes 1 parameter -> of Vector DT -> with elements that are unsigned 32 bit values
 
